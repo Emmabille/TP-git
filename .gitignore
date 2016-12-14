@@ -1,2 +1,8 @@
 #ignore all binaries files
 /bin/*
+#ignore 
+*.exe
+*.dll
+#include
+#!/bin/*.xml<= use this to include all xml files in bin folder
+!/bin/application.xml
