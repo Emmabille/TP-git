@@ -1,4 +1,4 @@
-### application.bat - 2016 -Rahma Barhoumi ###
+### application.bat - 2016 - Billard Rahma Barhoumi ###
 
 version = "2"
 build_hour = "11H00"
